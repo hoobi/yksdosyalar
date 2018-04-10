@@ -1,0 +1,18 @@
+.tercih_ayrac{
+    margin: 5px auto;
+}
+
+.input-kutu{
+    width: 90px !important;
+}
+
+.input-program_kodu{
+    width: 200px !important;
+}
+
+.hesaplama_uyari{
+    padding: 5px 30px;
+}
+.hesaplama_uyari p {
+    padding: 5px 10px;
+}
